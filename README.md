@@ -4,6 +4,7 @@ Text Adventure Game with Python
 **Title: Indiana Jones and the Last Crusade**
 
 **Introduction**:
+
 Inspired by the Indiana Jones Saga, this game lets you experience a quest in an undiscovered jungle.
 You will be sent on a quest to find the holy grail, which is located in a  remote temple.
 On the way there have to master unforeseen challenges and prove that you have the right gut feeling.
